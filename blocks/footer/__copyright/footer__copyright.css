@@ -1,7 +1,7 @@
 .footer__copyright {
   font-size: 0.875rem;
+  font-weight: 400; 
   line-height: 114%;
-  font-weight: 400;
   margin: 0;
 }
 @media screen and (max-width: 767px) {
