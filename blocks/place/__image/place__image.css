@@ -9,7 +9,7 @@
     justify-self: flex-start;
   }
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 767px) {
   .place__image {
     height: 320px;
   }
