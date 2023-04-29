@@ -3,7 +3,7 @@
   font-size: 1.5rem;
   line-height: 1.17;
   text-decoration-line: none;
-  color: #ffffff;
+  color: #fff;
   transition: opacity 0.2s linear;
 }
 .header__lang-link:hover {
